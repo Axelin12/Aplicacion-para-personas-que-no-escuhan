@@ -1,0 +1,19 @@
+body{
+    background: palegreen;
+    color: aliceblue;
+}
+.header_div{
+    background: greenyellow;
+    color: rgb(131, 0, 254);
+}
+.copy_right_footer{
+    position: fixed;
+    color: blue;
+    background-color: rgb(36, 217, 72);
+    bottom: 0;
+    width: 100%;
+    font-size: 22px;
+    line-height: 4;
+    text-align: center;
+    text-shadow: 5px 5px 5px green;
+}
